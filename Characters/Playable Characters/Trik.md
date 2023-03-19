@@ -1,12 +1,15 @@
-# Meta
+## Meta
 - Player: Eddy
-
-# Character Notes
-* Male Kobold Trickery Cleric
+----
+## Character Notes
+### Basics
+* Dead Male Kobold Trickery Cleric
 	* God: Unknown 
 * Speaks Celestial
+* Given the title "Trik the Noble" by his tribe
+### Related Characters & Locations
+- The Elder
+- Trik's Tribe
 
-## Tribe:
-- Given the title Trik the Noble
-- Located Below Scourwhips
-
+%%Player Characters%%
+%%Done%%

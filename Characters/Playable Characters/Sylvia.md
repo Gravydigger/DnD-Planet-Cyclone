@@ -1,15 +1,28 @@
-# Meta
+## Meta
 - Player: Princess
 - Times knocked unconscious: 2
+----
+## Character Notes
+### Basics
 
-# Character Notes
+### Backstory
+
+### Magic Items
+
+### Related Characters & Locations
+- Cruelstirs
+- Nako Mountainhex
+- [[The God of Influences]]
+----
 - Female Goblin War Cleric
 	- God: Goi
 - Nickname: Syl
 - Pretends to be a human
 * Has history with Nako
+-   A wanted felon by the WN civ
+	-   Committed Treason against Civilization
 
-## Backstory
+### Backstory
 Had a group she traveled with(the Warriors of Goi or WoG), who ended up being killed
 Was taken to Cruelstirs and forced to rejoin the WN civ
 Befriended Nako while at Cruelstirs
@@ -22,3 +35,5 @@ Can (in theory) ride a horse
 Will be the mom friend to those she is close to
 A wanted felon by the WN civ
 Committed Treason against Civilization
+
+%%Player Characters%%
