@@ -2,7 +2,7 @@ Dwarven Male
 God of: Wealth, Laws, Trade, Capitalism
 Known worshipers
 - Shurie
-- Perry
+- [[Perry]]
 
 %%Deity NPCs%%
 %%Done%%

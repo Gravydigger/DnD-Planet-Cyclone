@@ -17,8 +17,8 @@
 
 ### Backstory
 - Has had bad experiences with goblins
-- Has a bad history with Adexis
-	- It is so bad she doesn’t want to be near Adexis and doesn’t want Adexis to see her
+- Has a bad history with [[Adexis]]
+	- It is so bad she doesn’t want to be near [[Adexis]] and doesn’t want [[Adexis]] to see her
 - Has had a bad experience with a fire
 - Used to be an apprentice at a potion shop
 

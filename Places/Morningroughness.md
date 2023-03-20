@@ -1,4 +1,4 @@
 -   A community owned Necromancer Tower
--   Current leader: Olo Glacialglimmer
+-   Current leader: [[Olo Glacialglimmer]]
 
 %%Locations%%

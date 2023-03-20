@@ -2,13 +2,13 @@
 Advisor!Jaonos Illimaris
 - Male Elf
 - Ranger w/ some druid spells
-- An advisor to Minkot
+- An advisor to [[Minkot]]
 - Has a magical pendant
 	- Schools of Divination and Enchantment
 - Has a horse named Adhas
 
 Apprentice!Jaonos
-- Possibly located at Morningroughness
+- Possibly located at [[Morningroughness]]
 
 DT!Jaonos Illimaris
 - Male Elf

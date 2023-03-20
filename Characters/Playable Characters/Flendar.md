@@ -25,7 +25,7 @@
 - Does not remember where his homeland is
 - Keeps a journal of memories
 
-### The Old One
+### [[The Old One]]
 - Has known her for at least 15 years
 - Was given his magic by her
 	- After knowing her for years
