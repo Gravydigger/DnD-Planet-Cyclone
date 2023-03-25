@@ -9,6 +9,6 @@
 - Known members(past and present):
 	- Em Crewmaligned
 	- Nako
-	- Sylvia
+	- [[Sylvia]]
 
 %%Other Important Info%%

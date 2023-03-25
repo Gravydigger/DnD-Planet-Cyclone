@@ -3,7 +3,7 @@
 -------
 ## Character Notes
 ### Basics
-- Full Name: Ashro Idlahal
+- Full Name: Arshin Thomaril
 - Male Human Sorcerer
 	- Wild (Chaotic?) Magic
 ### Backstory
