@@ -10,5 +10,5 @@ If you see any spelling mistakes, incorrect information, etc. Please make an iss
 
 # TO-DO
 - Finish adding detail in Characters Folder
-- Add Places
 - Finish Converting Google Doc noted to here
+- Update outdated information that was copied from the Google Docs

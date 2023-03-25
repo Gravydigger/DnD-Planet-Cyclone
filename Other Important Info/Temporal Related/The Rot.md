@@ -1,0 +1,40 @@
+- Nickname: The Clockwork Infection
+- A marker for something to come investigate
+- Possible Causes
+	- Traveling from one universe to another through a Temporal Dungeon
+	- Being targeted by the Bellhop
+	- Exposure to drifters
+- Centered around a small rusty shard of metal
+	- Shards are on the right side or upper half of the chest
+	- Shards can only be pulled out by the Bellhop(and maybe other temporal magic creatures?)
+- Causes black tendrils to spread through the being’s body
+	- Tendrils are thick oil with metal shavings in them
+	- If a healing/curing magic is used on the being, the tendrils retreat but quickly regrow to the original size
+	- Seems to have a maximum size it can grow to(for the moment?)
+- Eventually leads to the infected falling into a sick, delirious state
+	- Time frame of this happening is unknown, looks to be between a week to 2 and a half months
+	- When in this state, infected are in essentially a stasis
+		- Don’t need food or water
+		- Don’t defecate
+		- Treatment for illnesses/disorders had before the infection do not need to be treated
+- Not contagious unless one is trying to infect
+	- Direct exposure of black ooze to open wound
+- Earliest known case (that we know the date of): 2.5 months
+- Current known cases:
+	- The PPCs(currently in Sweepstrangers)(currently stable)
+- Transmutation magic
+- Cannot be cured by:
+	- Lay on Hands
+	- Blessings from priests
+- Can be cured by:
+	- The Bellhop(not a great survival rate though)
+- Black ooze
+	- Best way to dispose of is by blessing from priest
+	- Can also burn or dilute in water, but aren’t as effective
+- Gods’ Responses   
+	- When asked for help, either get vague responses or “no”
+	- From Shurie’s anonymous source:  “This is a reminder when you mess with time”
+- Can (maybe) be masked to protect the infected
+
+
+%%Other Important Info%%

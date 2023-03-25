@@ -1,6 +1,10 @@
+Context
+-   Written by Nako but not sent
+-   To Em Crewmaligned
+-   Text was garbled by magic
+	-   School of Illusion
 Encoded with a vigenere cipher
 	Key: MasterEmCrewmaligned
-%% Decide if the section about this letter in "Other" should be here %%
 Text:
 >Second of Opal  
 >

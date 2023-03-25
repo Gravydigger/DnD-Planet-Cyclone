@@ -1,6 +1,5 @@
 ## Meta
 - Player: Xeek
-- Times knocked unconscious: ?
 - Deaths: 1
 - Rifts Entered: 1
 ----

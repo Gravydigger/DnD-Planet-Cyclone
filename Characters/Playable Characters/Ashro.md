@@ -1,6 +1,7 @@
 ## Meta
 - Player: Mont
 - Times knocked unconscious: 1
+- Deaths: 1
 -------
 ## Character Notes
 ### Basics
@@ -20,10 +21,9 @@
 ### Related Characters & Locations
 - Karen
 ----
--   Has a brother
--   From the large island in the SW
--   If ordered to do something by Karen, he must do it
--   Doesn’t have the “privilege” of asking questions of Karen
-
+- Has a brother
+- From the large island in the SW
+- If ordered to do something by Karen, he must do it
+- Doesn’t have the “privilege” of asking questions of Karen
 
 %%Player Characters%%
