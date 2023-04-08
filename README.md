@@ -10,5 +10,9 @@ If you see any spelling mistakes, incorrect information, etc. Please make an iss
 
 # TO-DO
 - Finish adding detail in Characters Folder
-- Finish Converting Google Doc noted to here
+- Finish Converting Google Doc notes to here
+	- PIatCoWtFitEitUaWtFihB;GWtFitTMN
+	- PIatMotSE,tCI,aaMFoT-SS
 - Update outdated information that was copied from the Google Docs
+- Add new info from recent sessions
+- Make some conspiracy boards

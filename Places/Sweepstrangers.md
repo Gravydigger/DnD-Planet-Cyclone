@@ -1,7 +1,7 @@
 -   Former hideout of a group of goblins
 -   Now the home base of our group
 -   A keep/small castle
-	-   Stable (being built)
+	-   Stable
 	-   Tavern
 	-   *Arcanist’s Study (tbd)*
 	-   *Caravansary (tbd)*
